@@ -13,6 +13,7 @@ I'm **Anisio Beaumont**, a software developer passionate about creating innovati
 ### 💼 Professional Experience
 
 **CEO and founder** at **Herandel fundation** (since 2022)
+
 Developing **Campus7** and implemented **frontend with Next.js**, resulting in measurable impact. 💡
 
 ### 💡 Highlighted Projects
