@@ -28,9 +28,9 @@ Developing **Campus7** and implemented **frontend with Next.js**, resulting in m
 
 ### 📫 How to Reach Me
 
-**Email**: [anisiodilungankula@gmail.com](mailto:anisiodilungankula@gmail.com).
-**LinkedIn**: [Anisio Nkula](https://www.linkedin.com/in/anisionkula/).
-**X (Twitter)**: [Anisio Nkula](https://x.com/AnisioBeaumont).
+**Email**: [anisiodilungankula@gmail.com](mailto:anisiodilungankula@gmail.com)<br/>
+**LinkedIn**: [Anisio Nkula](https://www.linkedin.com/in/anisionkula/).<br/>
+**X (Twitter)**: [Anisio Nkula](https://x.com/AnisioBeaumont).<br/>
 
 ![Thanks for visiting!](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting+my+GitHub!) <!-- Replace with another custom image -->
 
