@@ -1,9 +1,8 @@
-
-<div align="center">
-  
 # Hello! 👋 Welcome to my GitHub!
+<div align="center">
 
 ![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub!) <!-- Replace with a link to your custom image -->
+</div>
 
 I'm **Anisio Beaumont**, a software developer passionate about creating innovative and efficient solutions! 🚀 Here, you'll find projects focused on:
 
@@ -32,11 +31,16 @@ Developing **Campus7** and implemented **frontend with Next.js**, resulting in m
 **LinkedIn**: [Anisio Nkula](https://www.linkedin.com/in/anisionkula/)<br/>
 **X (Twitter)**: [Anisio Nkula](https://x.com/AnisioBeaumont)<br/>
 
+<div align="center">
+
 ![Thanks for visiting!](https://via.placeholder.com/800x100.png?text=Thanks+for+visiting+my+GitHub!) <!-- Replace with another custom image -->
 
----
+</div>
+
 
 💬 I'm always open to new opportunities and collaborations. Feel free to explore my repositories and get in touch!
+<div align="center">
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7132CC6)
 
 </div>
