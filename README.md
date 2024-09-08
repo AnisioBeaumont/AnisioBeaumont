@@ -1,3 +1,5 @@
+
+<div align="center">
 # Hello! 👋 Welcome to my GitHub!
 
 ![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub!) <!-- Replace with a link to your custom image -->
@@ -35,3 +37,5 @@ Developing **Campus7** and implemented **frontend with Next.js**, resulting in m
 
 💬 I'm always open to new opportunities and collaborations. Feel free to explore my repositories and get in touch!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7132CC6)
+
+</div>
