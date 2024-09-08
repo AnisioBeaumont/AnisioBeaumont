@@ -34,3 +34,4 @@ Developing **Campus7** and implemented **frontend with Next.js**, resulting in m
 ---
 
 💬 I'm always open to new opportunities and collaborations. Feel free to explore my repositories and get in touch!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7132CC6)
